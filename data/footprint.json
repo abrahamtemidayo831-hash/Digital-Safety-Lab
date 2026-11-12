@@ -1,0 +1,20 @@
+{"profile":{"name":"Alex","handle":"@alex_codes_fictional","bio":"200L Computer Science student. A fictional character for this exercise."},
+"items":[
+{"id":"f1","kind":"Post","text":"🎂 Turning 21 tomorrow, 12 March! Send love.","risky":true,"exposes":"Full date of birth.","misuse":"Dates of birth are often used to verify identity or answer security questions, and help someone guess passwords.","safer":"Celebrate in a private chat, or share the day and month only with a limited audience."},
+{"id":"f2","kind":"Photos","text":"Photos of the hostel room, showing the gate, block and room number on the door.","risky":true,"exposes":"Where Alex sleeps.","misuse":"A stranger could work out exactly where to find Alex or which room to target.","safer":"Avoid showing door numbers, gate signs or street names. Crop or blur them."},
+{"id":"f3","kind":"Post","text":"📍 Live location tag: at the study centre right now, alone, until late.","risky":true,"exposes":"Real-time whereabouts.","misuse":"Live location shows when Alex is alone and where, which can enable stalking or targeting.","safer":"Post after you have left, or share location only with trusted friends."},
+{"id":"f4","kind":"Bio","text":"Phone: 080X XXX XXXX (public on the profile)","risky":true,"exposes":"A public phone number.","misuse":"It can be scraped for spam, scam calls, SIM-swap attempts or account recovery abuse.","safer":"Keep it out of public bios. Share it directly with people who need it."},
+{"id":"f5","kind":"Post","text":"✈️ Travelling home Friday. Hostel empty for two weeks!","risky":true,"exposes":"When the room will be unoccupied.","misuse":"Burglars can use it to know when nobody is around.","safer":"Share holiday photos after returning, and tell only people who need to know."},
+{"id":"f6","kind":"Post","text":"Daily routine: gym 6am, lectures 8am, library till 10pm. Every single day!","risky":true,"exposes":"A predictable schedule.","misuse":"Someone could predict where Alex will be and when, especially combined with location tags.","safer":"Keep routines general and avoid posting exact times and places."},
+{"id":"f7","kind":"Photo","text":"Profile photo: Alex smiling at a coding club event.","risky":false,"why":"A normal profile photo with no location detail, ID or address. Low risk on its own."},
+{"id":"f8","kind":"Post","text":"Congratulating a coursemate on finishing exams.","risky":false,"why":"Positive, general and reveals nothing sensitive. Low risk."},
+{"id":"f9","kind":"Post","text":"Opinion about a favourite football team.","risky":false,"why":"A harmless interest. Public does not automatically mean risky."},
+{"id":"f10","kind":"Post","text":"Shared a first web app project on a coding page.","risky":false,"why":"Builds a positive online reputation. Just avoid sharing secret keys or personal data in the project."}],
+"lesson":[
+{"t":"Active footprint","b":"What you deliberately share: posts, comments, photos, sign-ups."},
+{"t":"Passive footprint","b":"What is collected about you: location data, device details, browsing history, tags by other people."},
+{"t":"Public and private","b":"Private audiences reduce exposure but are not secret. Friends can screenshot or forward."},
+{"t":"Location privacy","b":"Photos and check-ins can reveal where you live, study and travel. Turn off location tags where not needed."},
+{"t":"Online reputation","b":"Employers, supervisors and others may look you up. Think about how a post will read in years."},
+{"t":"Hard to remove","b":"Once posted, content can be copied, screenshotted or archived. Deleting helps but does not guarantee removal."},
+{"t":"Keep it proportionate","b":"A public detail is not automatically an incident. Risk depends on what details combine, who can see them and why."}]}
